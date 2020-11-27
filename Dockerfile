@@ -3,7 +3,7 @@ FROM audiohacked/ftb_base:latest
 LABEL maintainer="Sean Nelson <audiohacked@gmail.com>"
 
 ARG MODPACK="FTBRevelation"
-ARG FTB_VERSION="3_2_0"
+ARG FTB_VERSION="3_3_0"
 ARG SERVER_FILE="${MODPACK}Server.zip"
 # ARG BASE_URL="https://ftb.forgecdn.net/FTB2/modpacks/${MODPACK}"
 
